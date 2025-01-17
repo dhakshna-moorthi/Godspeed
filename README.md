@@ -1,2 +1,2 @@
 # Godspeed
-A speed typing test developed using Gramex
+An app to test once typing speed
