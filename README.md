@@ -1,2 +1,2 @@
 # Godspeed
-An app to test once typing speed
+An app to test one's typing speed
